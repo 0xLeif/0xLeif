@@ -4,7 +4,7 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 
 - 🔭 I’m currently working on [SwiftUIKit](https://github.com/0xLeif/SwiftUIKit)
-- 🌱 I’m currently learning Vapor 4 and SwiftUI
+- 🌱 I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
 - 💬 Ask me about [Swift](https://www.youtube.com/playlist?list=PLiAjyaWs0groiAMkCt-bL6JaMYMXZWqm3) 🧡
 - 📫 How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
