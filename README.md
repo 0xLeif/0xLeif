@@ -2,6 +2,7 @@
 
 I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift! 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xLeif&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently working on [SwiftUIKit](https://github.com/0xLeif/SwiftUIKit)
 - 🌱 I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
