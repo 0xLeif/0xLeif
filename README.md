@@ -13,3 +13,11 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 - [iOS Apps](https://apps.apple.com/lb/developer/zach-eriksen/id851997363)
 - [Work Blogs](https://www.clientresourcesinc.com/author/zeriksen/)
 - [Medium](https://medium.com/@0xLeif)
+
+
+<a href="https://github.com/0xLeif/SwiftUIKit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=SwiftUIKit" height=130 />
+</a>
+<a href="https://github.com/0xLeif/Later">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=Later" height=130 />
+</a>
