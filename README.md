@@ -27,3 +27,5 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 <a href="https://github.com/0xLeif/AwesomeArticles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=AwesomeArticles" height=130 />
 </a>
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=0xLeif" />
