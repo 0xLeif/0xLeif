@@ -16,18 +16,6 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 - [Work Blogs](https://www.clientresourcesinc.com/author/zeriksen/)
 - [Medium](https://medium.com/@0xLeif)
 
-<a href="https://github.com/0xLeif/SwiftUIKit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=SwiftUIKit" height=130 />
-</a>
-<a href="https://github.com/0xLeif/Later">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=Later" height=130 />
-</a>
-<a href="https://github.com/0xLeif/E.num">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=E.num" height=130 />
-</a>
-<a href="https://github.com/0xLeif/AwesomeArticles">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=0xLeif&repo=AwesomeArticles" height=130 />
-</a>
 
 ## What is oneleif?
 oneleif is a nonprofit community that supports tech minded individuals. We do this by offering a fun loving community that works on Open Sourced projects together. 
