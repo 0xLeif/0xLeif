@@ -6,7 +6,8 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=0xLeif" />
 
-- 🔭 I’m currently working on [ServerDriven](https://github.com/ServerDriven)
+- 🔭 I’m currently working on [Observation](https://github.com/0xLeif/Observation) using [E.num](https://github.com/0xLeif/E.num) and [Chain](https://github.com/0xLeif/Chain)
+- 🔨 Bulding [ServerDriven](https://github.com/ServerDriven) Apps
 - 🌱 I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
 - 💬 Ask me about [Swift](https://github.com/0xSwift) 🧡
 - 📫 How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
