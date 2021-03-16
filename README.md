@@ -6,11 +6,11 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=0xLeif" />
 
-- 🔭 I’m currently working on [EUI.num](https://github.com/0xLeif/EUI.num) ([EUI Example](https://github.com/0xLeif/EUI-POC))
-- 🔨 Bulding [ServerDriven](https://github.com/ServerDriven) Apps
-- 🌱 I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
-- 💬 Ask me about [Swift](https://github.com/0xSwift) 🧡
-- 📫 How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
+- 🔭  I’m currently working on [EUI.num](https://github.com/0xLeif/EUI.num) ([EUI Example](https://github.com/0xLeif/EUI-POC))
+- 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
+- 🌱  I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
+- 💬  Ask me about [Swift](https://github.com/0xSwift) 🧡
+- 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
 #### Check Out My...
 - [iOS Apps](https://apps.apple.com/lb/developer/zach-eriksen/id851997363)
