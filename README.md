@@ -8,7 +8,7 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 - 🔭  I’m currently working on [EUI.num](https://github.com/0xLeif/EUI.num) ([EUI Example](https://github.com/0xLeif/EUI-POC))
 - 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
-- 🌱  I’m currently learning [Vapor](https://vapor.codes) and [SwiftUI](https://developer.apple.com/documentation/swiftui)
+- 🌱  I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬  Ask me about [Swift](https://github.com/0xSwift) 🧡
 - 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
