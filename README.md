@@ -39,8 +39,3 @@ Feel free to email us at: oneleifdev@gmail.com
 
 Ask questions in the discord
 
-
-***
-
-![Visitor Count](https://profile-counter.glitch.me/0xLeif/count.svg)
-
