@@ -6,7 +6,7 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=0xLeif" />
 
-- 🔭  I’m currently working on [SwiftUIKit](https://github.com/0xLet/SwiftUIKit) and [EUI.num](https://github.com/0xLeif/EUI.num) ([EUI Example](https://github.com/0xLeif/EUI-POC))
+- 🔭  I’m currently working on [SwiftUIKit](https://github.com/0xLet/SwiftUIKit) and [ScreenDataUI](https://github.com/ServerDriven/ScreenDataUI-ios)
 - 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
 - 🌱  I’m currently learning [swift-composable-architecture](https://www.pointfree.co/collections/composable-architecture)
 - 💬  Ask me about [Swift](https://github.com/0xLet) 🧡
