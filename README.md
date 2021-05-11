@@ -2,9 +2,8 @@
 
 I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift! 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xLeif&show_icons=true&icon_color=f05139&text_color=000000&bg_color=ffffff&hide_title=true&title_color=ffac45&count_private=true" />
-
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=0xLeif" />
+<img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=0xLeif&show_icons=true&theme=onedark&count_private=true" />
+<img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=0xLeif&theme=onedark" />
 
 - 🔭  I’m currently working on [SwiftUIKit](https://github.com/0xLet/SwiftUIKit) and [ScreenDataUI](https://github.com/ServerDriven/ScreenDataUI-ios)
 - 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
