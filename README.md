@@ -7,7 +7,7 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 
 - 🔭  I’m currently working on [Onions](https://github.com/0xLeif/OnionStash) and [ScreenDataUI](https://github.com/ServerDriven/ScreenDataUI-ios)
 - 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
-- 🌱  I’m currently learning [swift-composable-architecture](https://www.pointfree.co/collections/composable-architecture)
+- 🧡  I’m in love with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
 - 💬  Ask me about [Swift](https://github.com/0xLet) 🧡
 - 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
