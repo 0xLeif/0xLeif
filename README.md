@@ -5,16 +5,14 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 <img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=0xLeif&show_icons=true&theme=onedark&count_private=true" />
 <img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=0xLeif&theme=onedark" />
 
-- 🔭  I’m currently working on [Onions](https://github.com/0xLeif/OnionStash) and [ScreenDataUI](https://github.com/ServerDriven/ScreenDataUI-ios)
-- 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) Apps
+- 🔨  Bulding [ServerDriven](https://github.com/ServerDriven) and [TCA](https://github.com/pointfreeco/swift-composable-architecture) Apps
 - 🧡  I’m in love with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)
 - 💬  Ask me about [Swift](https://github.com/0xLet) 🧡
 - 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
 #### Check Out My...
+- [Bog](https://openbytes.dev/)
 - [iOS Apps](https://apps.apple.com/lb/developer/zach-eriksen/id851997363)
-- [Work Blogs](https://www.clientresourcesinc.com/author/zeriksen/)
-- [Medium](https://medium.com/@0xLeif)
 
 
 ## What is oneleif?
