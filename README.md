@@ -11,7 +11,7 @@ I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift!
 - 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
 
 #### Check Out My...
-- [Bog](https://openbytes.dev/)
+- [Blog](https://openbytes.dev/)
 - [iOS Apps](https://apps.apple.com/lb/developer/zach-eriksen/id851997363)
 
 
