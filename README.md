@@ -36,3 +36,4 @@ Feel free to email us at: oneleifdev@gmail.com
 
 Ask questions in the discord
 
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
