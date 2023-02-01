@@ -2,8 +2,6 @@
 
 I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift! 
 
-<img align="right" width=500 src="https://github-profile-trophy.vercel.app/?username=0xLeif&theme=onedark" />
-
 - 🔨  Bulding [Fork](https://github.com/0xLeif/Fork) and [Plugin](https://github.com/0xLeif/Plugin)
 - 💬  Ask me about [Swift](https://github.com/0xLet) 🧡
 - 📫  How to reach me: [JOIN ONELEIF](https://discord.com/invite/tv9UdJK)
