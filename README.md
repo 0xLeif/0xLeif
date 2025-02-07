@@ -1,6 +1,6 @@
 # Hello there ✌️
 
-I'm Zach, I've been making iOS apps since 2013. I am focusing on anything Swift! 
+I'm Leif, I've been making iOS apps since 2013. I am focusing on anything Swift! 
 
 - 🔨  Bulding [AppState](https://github.com/0xLeif/AppState)
 - 💬  Ask me about [Swift](https://github.com/0xLet) 🧡
