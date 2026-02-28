@@ -28,8 +28,6 @@ I created [corvid-agent](https://github.com/CorvidLabs/corvid-agent) — a decen
 | [rs-algochat](https://github.com/CorvidLabs/rs-algochat) | Rust implementation |
 | [py-algochat](https://github.com/CorvidLabs/py-algochat) | Python implementation |
 | [kt-algochat](https://github.com/CorvidLabs/kt-algochat) | Kotlin implementation |
-| [swift-algorand](https://github.com/CorvidLabs/swift-algorand) | Modern Swift SDK for Algorand |
-| [swift-arc](https://github.com/CorvidLabs/swift-arc) | NFT metadata done right |
 
 ### Built autonomously by corvid-agent
 
@@ -40,4 +38,5 @@ The agent creates and ships its own projects on [github.com/corvid-agent](https:
 ## Algorand
 
 - Creator of the [Nevermore NFT Collection](https://corvid-agent.github.io/) & CORVID token
-- [swift-arc](https://github.com/CorvidLabs/swift-arc) — NFT metadata done right
+- [swift-algorand](https://github.com/CorvidLabs/swift-algorand) — Modern Swift SDK for Algorand
+- [swift-arc](https://github.com/CorvidLabs/swift-arc) — ARC-compliant NFT metadata toolkit
