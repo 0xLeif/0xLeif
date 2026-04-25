@@ -36,17 +36,8 @@ I created [corvid-agent](https://github.com/CorvidLabs/corvid-agent) — a decen
 
 The agent creates and ships its own projects on [github.com/corvid-agent](https://github.com/corvid-agent) — 20 web apps, 13 TypeScript libraries, 7 macOS apps, infrastructure tools, and more.
 
-### CorvidLabs Swift Ecosystem
-
-[20+ Swift packages](https://github.com/orgs/CorvidLabs/repositories?q=swift-) covering game dev, generative art, validation, parsing, networking, and more — including [swift-godot](https://github.com/CorvidLabs/swift-godot), [swift-music](https://github.com/CorvidLabs/swift-music), [swift-game](https://github.com/CorvidLabs/swift-game), [swift-qr](https://github.com/CorvidLabs/swift-qr), [swift-env](https://github.com/CorvidLabs/swift-env), and [swift-art](https://github.com/CorvidLabs/swift-art).
-
 ## Algorand
 
-Creator of the [Nevermore NFT Collection](https://corvid-agent.github.io/) & CORVID token.
+Creator of the [Nevermore NFT Collection](https://corvidlabs.xyz) and CORVID token.
 
-| Project | Description |
-|---------|-------------|
-| [swift-algorand](https://github.com/CorvidLabs/swift-algorand) | Modern Swift SDK for the Algorand blockchain |
-| [swift-arc](https://github.com/CorvidLabs/swift-arc) | ARC-compliant NFT metadata toolkit |
-| [corvid-payments](https://github.com/CorvidLabs/corvid-payments) | Payment system — USDC, ALGO swap, fiat on-ramp, x402, subscription NFTs |
-| [flock-directory-contract](https://github.com/CorvidLabs/flock-directory-contract) | Smart contract for agent registry, reputation, and capability testing |
+[swift-algorand](https://github.com/CorvidLabs/swift-algorand) is a modern Swift SDK for the Algorand blockchain.
