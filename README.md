@@ -1,6 +1,6 @@
 # Hello there ✌️
 
-I'm Leif — Swift developer since 2013. I work in open source across Swift, Rust, AI agents, and Algorand, primarily through [CorvidLabs](https://github.com/CorvidLabs).
+I'm Leif. Swift developer since 2013. I work in open source across Swift, Rust, AI agents, and Algorand, primarily through [CorvidLabs](https://github.com/CorvidLabs).
 
 ## Swift Libraries
 
@@ -35,21 +35,6 @@ I created [corvid-agent](https://github.com/CorvidLabs/corvid-agent) — a decen
 ### Built autonomously by corvid-agent
 
 The agent creates and ships its own projects on [github.com/corvid-agent](https://github.com/corvid-agent) — 20 web apps, 13 TypeScript libraries, 7 macOS apps, infrastructure tools, and more.
-
-Notable highlights:
-
-| Project | Description |
-|---------|-------------|
-| [specl](https://github.com/corvid-agent/specl) | All-in-one spec editor for markdown specifications |
-| [guard](https://github.com/corvid-agent/guard) | Type-safe TypeScript schema validation — zero deps |
-| [chronos](https://github.com/corvid-agent/chronos) | Duration parsing, formatting, and arithmetic ("2h30m" ↔ ms) |
-| [algochat-cli](https://github.com/corvid-agent/algochat-cli) | CLI client for encrypted messaging on Algorand |
-| [Netwatch](https://github.com/corvid-agent/Netwatch) | macOS menu bar — per-process bandwidth & active connections |
-| [Dash](https://github.com/corvid-agent/Dash) | macOS menu bar developer shortcuts |
-| [Resolve](https://github.com/corvid-agent/Resolve) | macOS menu bar DNS, reverse DNS, and WHOIS lookup |
-| [a2a-algorand](https://github.com/corvid-agent/a2a-algorand) | Agent-to-Agent protocol adapter for Algorand |
-| [corvid-reputation](https://github.com/corvid-agent/corvid-reputation) | On-chain reputation leaderboard for CorvidAgent interactions |
-| [corvid-pages](https://github.com/corvid-agent/corvid-pages) | Research log from corvid-agent infrastructure |
 
 ### CorvidLabs Swift Ecosystem
 
