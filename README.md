@@ -4,10 +4,6 @@ I'm Leif.
 
 I'm an iOS / Swift developer during the day and an OSS developer during the night.
 
-I work on developer tools like [spec-sync](https://corvidlabs.github.io/spec-sync/),
-[fledge](https://corvidlabs.github.io/fledge/), [quill](https://corvidlabs.github.io/quill/), and
-[merlin](https://corvidlabs.github.io/merlin/).
-
 ## Developer Tools
 
 | Project | What it is |
