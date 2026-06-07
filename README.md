@@ -2,7 +2,7 @@
 
 I'm Leif.
 
-I'm an iOS / Swift developer during the day and an OSS developer during the night.
+I'm an iOS / Swift developer by day and an OSS developer by night.
 
 ## Developer Tools
 
