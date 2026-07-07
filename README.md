@@ -8,10 +8,10 @@ I'm an iOS / Swift developer by day and an OSS developer by night.
 
 | Project | What it is |
 |---------|------------|
-| [spec-sync](https://corvidlabs.github.io/spec-sync/) | Keep specs and implementation moving together |
-| [fledge](https://corvidlabs.github.io/fledge/) | Dev lifecycle tooling for running, reviewing, and shipping projects |
-| [quill](https://corvidlabs.github.io/quill/) | Writing and documentation tooling |
-| [merlin](https://corvidlabs.github.io/merlin/) | AI-assisted development tools and workflows |
+| [fledge](https://corvidlabs.github.io/fledge/) | One CLI for your whole dev lifecycle — zero-config task runner, scaffolding, and AI review |
+| [spec-sync](https://corvidlabs.github.io/spec-sync/) | Bidirectional spec-to-code validation, enforced in CI |
+| [corvid-pet](https://github.com/CorvidLabs/corvid-pet) | ASCII corvid companions for CLI tools |
+| [corvid-hex](https://github.com/CorvidLabs/corvid-hex) | A TUI hex editor in Rust |
 
 ## Swift Libraries
 
