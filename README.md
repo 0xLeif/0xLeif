@@ -20,10 +20,7 @@ I'm an iOS / Swift developer by day and an OSS developer by night.
 | [spec-sync](https://corvidlabs.github.io/spec-sync/) | Bidirectional spec-to-code validation, enforced in CI |
 | [augur](https://github.com/CorvidLabs/augur) | Graded trust for code changes — deterministic risk scoring (proceed / review / block) for humans and agents |
 | [attest](https://github.com/CorvidLabs/attest) | Signed provenance for code changes — a policy-gated ledger of who reviewed what, keyed to commit SHAs |
-| [fledge-plugin-atlas](https://github.com/CorvidLabs/fledge-plugin-atlas) | Renders your specs, code, and their overlap as an interactive HTML atlas for humans and agents |
-| [corvid-agent](https://github.com/CorvidLabs/corvid-agent) | Decentralized dev-agent platform with on-chain identity and encrypted inter-agent messaging on Algorand |
-| [corvid-pet](https://github.com/CorvidLabs/corvid-pet) | ASCII corvid companions for CLI tools |
-| [corvid-hex](https://github.com/CorvidLabs/corvid-hex) | A TUI hex editor in Rust |
+| [atlas](https://github.com/CorvidLabs/fledge-plugin-atlas) | Renders your specs, code, and their overlap as an interactive HTML atlas for humans and agents |
 
 ## AlgoChat
 
