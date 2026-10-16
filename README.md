@@ -2,8 +2,6 @@
 
 I'm Leif.
 
-I'm an iOS / Swift developer by day and an OSS developer by night.
-
 ## Swift Libraries
 
 | Package | What it is |
