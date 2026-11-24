@@ -1,6 +1,6 @@
 # Hello there ✌️
 
-I'm Leif. I build tools for coding agents — and the Swift libraries they sit on.
+I'm Leif. I build tools for coding agents, and the Swift libraries they sit on.
 
 ## Agent Tools
 
@@ -8,12 +8,12 @@ Built through [CorvidLabs](https://corvidlabs.xyz/), and used daily by my own ag
 
 | Project | What it is |
 |---------|------------|
-| [fledge](https://corvidlabs.github.io/fledge/) | One CLI for your whole dev lifecycle — zero-config task runner, scaffolding, and AI review |
+| [chough](https://github.com/CorvidLabs/chough) | A workflow kit for coding agents: sessions, human gates, and evidence-backed records |
+| [fledge](https://corvidlabs.github.io/fledge/) | One CLI for your whole dev lifecycle: zero-config task runner, scaffolding, and AI review |
 | [spec-sync](https://corvidlabs.github.io/spec-sync/) | Bidirectional spec-to-code validation, enforced in CI |
-| [chough](https://github.com/CorvidLabs/chough) | A workflow kit for coding agents — sessions, human gates, and evidence-backed records |
-| [hi](https://github.com/CorvidLabs/hi) | Human intent — acceptance criteria in human words, with permanent IDs |
+| [hi](https://github.com/CorvidLabs/hi) | Human intent: acceptance criteria in human words, with permanent IDs |
 
-…and the family: [trust](https://github.com/CorvidLabs/trust), [augur](https://github.com/CorvidLabs/augur), [attest](https://github.com/CorvidLabs/attest), [atlas](https://github.com/CorvidLabs/fledge-plugin-atlas), [3md](https://github.com/CorvidLabs/3md) — the rest at [github.com/CorvidLabs](https://github.com/CorvidLabs).
+…and the family: [trust](https://github.com/CorvidLabs/trust), [augur](https://github.com/CorvidLabs/augur), [attest](https://github.com/CorvidLabs/attest), [atlas](https://github.com/CorvidLabs/fledge-plugin-atlas), [3md](https://github.com/CorvidLabs/3md), plus the rest at [github.com/CorvidLabs](https://github.com/CorvidLabs).
 
 I run it all with a private agent CLI, `tob`, on a team of local models.
 
